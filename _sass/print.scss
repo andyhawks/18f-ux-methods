@@ -79,6 +79,7 @@ header.banner,
   left: 50%;
   margin-bottom: .5in;
   margin-left: -.2in;
+  page-break-before: always;
 }
 
 .method::after {
