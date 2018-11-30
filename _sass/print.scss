@@ -171,6 +171,10 @@ header.banner,
   :first-child {
     margin-top: .6em;
   }
+
+.method .method--panel--back ol,
+.method .method--panel--back ul {
+  margin: 0 0 0.5rem 1rem;
 }
 
 .method .method--panel--back::after {
